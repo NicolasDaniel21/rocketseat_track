@@ -14,7 +14,7 @@
 }
 
 body {
-  background-color: darkslateblue;
+  background-color: midnightblue; 
 }
 
 main {
@@ -31,8 +31,9 @@ header {
 }
 
 header h1 {
-  margin-top: 24px;
-  font-size: 30px;
+  text-align: center;
+  margin-top: 1px;
+  font-size: 50px;
   color: white;
 }
 
