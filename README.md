@@ -1,3 +1,5 @@
+## Quick access to the project: https://nicolasdaniel21.github.io/rocketseat_track/
+
 # rocketseat_track
 
 ## Used technologies
